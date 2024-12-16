@@ -130,7 +130,7 @@ class PowerlineUI {
     `;
 
     Object.assign(mobileBox.style, {
-      width: '310px',
+      width: '315px',
       height: '92px'
     });
   }
